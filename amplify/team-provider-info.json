@@ -1,15 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-codereact-dev-105539-authRole",
-      "UnauthRoleArn": "arn:aws:iam::115278533354:role/amplify-codereact-dev-105539-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::115278533354:role/amplify-codereact-dev-105539-authRole",
+      "AuthRoleName": "amplify-electnowcodereact-dev-122433-authRole",
+      "UnauthRoleArn": "arn:aws:iam::115278533354:role/amplify-electnowcodereact-dev-122433-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::115278533354:role/amplify-electnowcodereact-dev-122433-authRole",
       "Region": "ap-southeast-2",
-      "DeploymentBucketName": "amplify-codereact-dev-105539-deployment",
-      "UnauthRoleName": "amplify-codereact-dev-105539-unauthRole",
-      "StackName": "amplify-codereact-dev-105539",
-      "StackId": "arn:aws:cloudformation:ap-southeast-2:115278533354:stack/amplify-codereact-dev-105539/963b2c50-ad51-11ed-8df4-02975ce63294",
-      "AmplifyAppId": "d34pvbttrifpp6"
+      "DeploymentBucketName": "amplify-electnowcodereact-dev-122433-deployment",
+      "UnauthRoleName": "amplify-electnowcodereact-dev-122433-unauthRole",
+      "StackName": "amplify-electnowcodereact-dev-122433",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:115278533354:stack/amplify-electnowcodereact-dev-122433/01a51300-ad5e-11ed-9228-0a619f1ca05e",
+      "AmplifyAppId": "d3k4iwpbj54qbv"
     }
   }
 }
