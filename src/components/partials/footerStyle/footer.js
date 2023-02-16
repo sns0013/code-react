@@ -1,9 +1,7 @@
 import React from 'react'
-import { Link} from 'react-router-dom'
-import {Row, Col, Container, Button} from 'react-bootstrap'
+import {Button} from 'react-bootstrap'
 import {bindActionCreators} from "redux"
 import {getDarkMode, ModeAction, getRtlMode, DirAction} from '../../../store/mode/mode'
-import {connect} from "react-redux"
 
 const mapStateToProps = (state) => {
     return {
@@ -60,4 +58,4 @@ const Footer = (props) => {
         )
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(Footer)
+export default Footer

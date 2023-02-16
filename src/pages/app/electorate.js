@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container, Row, Col, Card, Form, Button} from 'react-bootstrap'
+import {Container, Row, Col, Card} from 'react-bootstrap'
 import e1 from '../../assets/images/page-img/e1.png'
 import e2 from '../../assets/images/page-img/e2.png'
 
