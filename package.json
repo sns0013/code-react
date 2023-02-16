@@ -6,7 +6,7 @@
     "@aws-amplify/ui-react": "^4.3.8",
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@fullcalendar/bootstrap": "^5.9.0",
-    "@fullcalendar/core": "^5.9.0",
+    "@fullcalendar/core": "^6.1.4",
     "@fullcalendar/daygrid": "^5.9.0",
     "@fullcalendar/list": "^5.9.0",
     "@fullcalendar/react": "^5.9.0",
