@@ -1,7 +1,6 @@
 {
   "name": "ElectnowCodeReact",
   "version": "0.1.0",
-  "homepage": "https://main.d3k4iwpbj54qbv.amplifyapp.com/code-react"
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^4.3.8",
