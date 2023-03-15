@@ -34,7 +34,7 @@
     "react-transition-group": "^4.4.2",
     "reactstrap": "^9.0.2",
     "redux": "^4.1.1",
-    "sass": "1.39.0",
+    "sass": "1.59.3",
     "sass-loader": "^12.1.0",
     "smooth-scrollbar": "^8.6.3",
     "sweetalert2": "^11.1.5",
